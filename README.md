@@ -1,7 +1,7 @@
 # VSCD
 ## Datasets
 
-The models are trained and evaluated on two open-source datasets:
+The models are trained and evaluated on an open-source dataset:
 - ScienceQA: Available at:
   - [Hugging Face Repository](https://huggingface.co/cooelf/vision_features/tree/main)
   - [Google Drive Link 1](https://drive.google.com/file/d/13B0hc_F_45-UlqPLKSgRz-ALtFQ8kIJr/view?pli=1)
